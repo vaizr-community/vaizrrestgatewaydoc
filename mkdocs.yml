@@ -1,0 +1,9 @@
+---
+pages:
+  - Home: index.md
+  - About: about.md
+site_name: Vaizr Rest API Documentation
+#site_dir: 'src/main/webapp/devdoc/'
+##site_dir: '../vaizr.github.io'
+dev_addr: '0.0.0.0:8000'
+theme: readthedocs
